@@ -21,8 +21,8 @@ const config = {
 
   entry: {
     app: [
-      'src/client.tsx',
-      'src/vendor/main.ts'
+      './src/client.tsx',
+      './src/vendor/main.ts'
     ]
   },
 

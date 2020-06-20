@@ -26,7 +26,7 @@ const tslintRules = {
   "hex-format": false,
   "import-spacing": true,
   "interface-sort-keys": false,
-  "increment-decrement": true,
+  "increment-decrement": false,
   "jquery-deferred-must-complete": true,
   "jsdoc-format": true,
   "jsx-boolean-value": true,
